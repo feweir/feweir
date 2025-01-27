@@ -20,7 +20,7 @@
 
 /feweir/info~:$ python techStack.py
 ```
-```
+```diff
 !⚠️ The tech stack is constantly updated...
 ```
 
